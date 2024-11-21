@@ -19,7 +19,7 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 |**Type**|**Languages**|
 |--------------------|------------------------------------------------------------------------------------------------------------|
 | **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,github,docker,md,postman,npm,unity,aws)](https://skillicons.dev) |
-| **General Purpose** | [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,java)](https://skillicons.dev)                           |
+| **General Purpose** | [![My Skills](https://skillicons.dev/icons?i=py,go,c,cpp,cs,java)](https://skillicons.dev)                           |
 | **Front-End**       | [![My Skills](https://skillicons.dev/icons?i=vue,vite,ts,js,html,css,bootstrap)](https://skillicons.dev)      |
 | **Back-End**        | [![My Skills](https://skillicons.dev/icons?i=jquery,php,flask,django)](https://skillicons.dev)               |
 | **Database**       | [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql)](https://skillicons.dev)               |
