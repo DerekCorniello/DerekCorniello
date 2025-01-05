@@ -42,7 +42,8 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 
 ### 🛠️ Currently Learning About and Developing
 - Working on a new social media app, [DevBits](https://www.github.com/DerekCorniello/DevBits)
+- Building a custom git terminal, [gitcmd](https://www.github.com/DerekCorniello/gitcmd)
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and powerful, and my blazingly fast [Neovim Setup](https://www.github.com/DerekCorniello/NeoVim-Setup) for efficient work!
-- I want to learn Haskell or Scala for a FP lang!
+- Exploring new languages!
 - Grinding LeetCode
-- Doing [Advent of Code](https://github.com/DerekCorniello/advent-of-code-2024) in Go!
+
