@@ -43,6 +43,6 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 
 ### 🛠️ Currently Learning About and Developing
 - Working on a new social media app, [DevBits](https://www.github.com/DerekCorniello/DevBits)
-- My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and powerful, and my blazingly fast [Neovim Setup](https://www.github.com/DerekCorniello/NeoVim-Setup) for efficient work!
-- Exploring new languages!
+- My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
+- Exploring Haskell, buckling down Go and Rust!
 - Grinding LeetCode
