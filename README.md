@@ -31,9 +31,9 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 
 | Project                                      | Status      | Tech Stack                                   | Summary                                                                                          | Takeaways                                                                                           |
 |----------------------------------------------|-------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [8BitBeats](https://www.github.com/DerekCorniello/DevBits)/([crates.io](https://crates.io/crates/eightbitbeats)) | Maintenance | Rust | A cross between X and LinkedIn for posting your project updates! | Created a solution for a problem I had! Learned more about system architecture, low level, and terminals! |
-| [gitcmd](https://www.github.com/DerekCorniello/gitcmd) | Maintenance | Rust | A customizable git terminal for any experience level of development! | Advanced lower level language skills, explored Rust, made something useful! |
-| [ReqInspect](https://www.github.com/DerekCorniello/pip-req-valid) ([Link](https://www.reqinspect.com))     | Maintenance | Go, Vue, Vite, AWS, Docker                  | Full-stack app for validating `requirements.txt` files. Inspired by work challenges, deployed on AWS. | Advanced full-stack skills, refined Go skills, improved AWS efficiency, deployment and security.       |
+| [8BitBeats](https://www.github.com/DerekCorniello/DevBits) - ([crates.io](https://crates.io/crates/eightbitbeats)) | Maintenance | Rust | A cross between X and LinkedIn for posting your project updates! | Created a solution for a problem I had! Learned more about system architecture, low level, and terminals! |
+| [gitcmd](https://www.github.com/DerekCorniello/gitcmd) - ([crates.io](https://crates.io/crates/gitcmd)) | Maintenance | Rust | A customizable git terminal for any experience level of development! | Advanced lower level language skills, explored Rust, made something useful! |
+| [ReqInspect](https://www.github.com/DerekCorniello/pip-req-valid) - [Link](https://www.reqinspect.com)     | Maintenance | Go, Vue, Vite, AWS, Docker                  | Full-stack app for validating `requirements.txt` files. Inspired by work challenges, deployed on AWS. | Advanced full-stack skills, refined Go skills, improved AWS efficiency, deployment and security.       |
 | [Professional Site](https://derekcorniello.github.io) | Maintenance | JavaScript, HTML, CSS, jQuery              | Static site showcasing background, projects, blogs, and more.                                   | Showcased creativity, deepened web fundamentals.                                                   |
 | [Development Setup](https://github.com/DerekCorniello/dotfiles) | Maintenance | Arch Linux, NeoVim, Tmux, Hyprland, Shell, Lua | Streamlined setup for productivity, from coding to file management.                              | Gained OS-level insights, optimized workflow, documented NeoVim journey [here](https://derekcorniello.github.io/views/blogs/nvim.html). |
 | [AmandaLynnDashboard](https://github.com/DerekCorniello/AmandaLynnDashboard) | Maintenance | Python, Django, Vue, SQLite, Docker         | Custom inventory and financial management app for a small business.                              | Learned full-stack principles, CORS, and deployment with Docker for non-technical users.          |
@@ -43,6 +43,7 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
-- EBuckling down Go and Rust!
+- Buckling down Go and Rust!
+- Righting a chess terminal app
 - Designing my own language
 - Grinding LeetCode
