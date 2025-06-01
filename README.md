@@ -15,7 +15,7 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 ## 🥇 My Language and Technology Skillset
 |**Type**|**Languages / Skills**|
 |--------------------|------------------------------------------------------------------------------------------------------------|
-| **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,postman,md,unity,apache)](https://skillicons.dev) |
+| **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,postman,md,unity,raspberrypi,arduino)](https://skillicons.dev) |
 | **General Purpose** | [![My Skills](https://skillicons.dev/icons?i=rust,go,java,py,c,cs,cpp)](https://skillicons.dev)                           |
 | **Front-End**       | [![My Skills](https://skillicons.dev/icons?i=vue,js,vite,ts,html,css,bootstrap)](https://skillicons.dev)      |
 | **Back-End**        | [![My Skills](https://skillicons.dev/icons?i=jquery,php,flask,django)](https://skillicons.dev)               |
