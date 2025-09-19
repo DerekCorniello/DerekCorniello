@@ -45,6 +45,6 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
 - Buckling down Go and Rust!
-- Righting a chess terminal app
 - Designing my own language
+- Writing Evolutionary Algorithms in OCaml
 - Grinding LeetCode
