@@ -10,7 +10,10 @@
 </h1>
 
 ## 👋 Hello, I'm Derek Corniello!
-I'm a CS/SWE student at the University of Cincinnati. I’m passionate about diving into software product design, project management, back-end development, and DevOps. My curiosity and eagerness to learn drives me to keep learning and exploring, one project at a time!
+I'm a CS/SWE student at the University of Cincinnati. 
+I’m passionate about diving into software product design, backend development, API development, Dev Tools, and Embedded Systems. 
+My curiosity and eagerness to learn drives me to keep learning and exploring, one project at a time!
+I'm looking forward to contributing to companies where technological innovation meets impact. 
 
 ## 🥇 My Language and Technology Skillset
 |**Type**|**Languages / Skills**|
@@ -40,7 +43,7 @@ I'm a CS/SWE student at the University of Cincinnati. I’m passionate about div
 | [AmandaLynnDashboard](https://github.com/DerekCorniello/AmandaLynnDashboard) | Maintenance | Python, Django, Vue, SQLite, Docker         | Custom inventory and financial management app for a small business.                              | Learned full-stack principles, CORS, and deployment with Docker for non-technical users.          |
 | [Billiards Bonanza](https://dcoolman.itch.io/Billiards-Bonanza) | Legacy      | C#, Unity                                   | Retro 8-bit 8-ball billiards game with arcade-style features.                                    | Gained insights into game design, physics, and creative feature implementation.                   |
 
-
+**Note**: I also built a [custom split keyboard](https://derekcorn.dev/keyboard) which was not much programming, but fun nonetheless!
 
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
