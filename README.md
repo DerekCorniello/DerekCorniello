@@ -27,7 +27,7 @@ I'm looking forward to contributing to companies where technological innovation 
 
 ### 📈 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerekCorniello&langs_count=8&layout=compact&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript&theme=highcontrast&hide_border=true)
-![Derek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekcorniello&show_icons=true&hide=stars&count_private=true&hide_rank=true&theme=highcontrast&hide_border=true)
+![Derek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekcorniello&show_icons=true&count_private=true&theme=highcontrast&hide_border=true)
 ![Derek's LeetCode Stats](https://leetcard.jacoblin.cool/DerekCorn?ext=activity&theme=transparent)
 
 
@@ -47,7 +47,8 @@ I also built a [custom split keyboard](https://derekcorn.dev/blogs/keyboard) whi
 
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
-- Buckling down Go and Rust!
+- Buckling down Go and Rust, learning OCaml
 - Designing my own language
 - Writing Evolutionary Algorithms in OCaml
 - Grinding LeetCode
+- Applying for Co-Ops
