@@ -19,7 +19,7 @@ I'm looking forward to contributing to companies where technological innovation 
 |**Type**|**Languages / Skills**|
 |--------------------|------------------------------------------------------------------------------------------------------------|
 | **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,postman,md,unity,raspberrypi,arduino)](https://skillicons.dev) |
-| **General Purpose** | [![My Skills](https://skillicons.dev/icons?i=rust,go,java,py,c,cs,cpp)](https://skillicons.dev)                           |
+| **General Purpose** | [![My Skills](https://skillicons.dev/icons?i=rust,go,java,py,c,cs,cpp,ocaml)](https://skillicons.dev)                           |
 | **Front-End**       | [![My Skills](https://skillicons.dev/icons?i=vue,js,vite,ts,html,css,bootstrap)](https://skillicons.dev)      |
 | **Back-End**        | [![My Skills](https://skillicons.dev/icons?i=jquery,php,flask,django)](https://skillicons.dev)               |
 | **Database**       | [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql)](https://skillicons.dev)               |
@@ -43,7 +43,7 @@ I'm looking forward to contributing to companies where technological innovation 
 | [AmandaLynnDashboard](https://github.com/DerekCorniello/AmandaLynnDashboard) | Maintenance | Python, Django, Vue, SQLite, Docker         | Custom inventory and financial management app for a small business.                              | Learned full-stack principles, CORS, and deployment with Docker for non-technical users.          |
 | [Billiards Bonanza](https://dcoolman.itch.io/Billiards-Bonanza) | Legacy      | C#, Unity                                   | Retro 8-bit 8-ball billiards game with arcade-style features.                                    | Gained insights into game design, physics, and creative feature implementation.                   |
 
-**Note**: I also built a [custom split keyboard](https://derekcorn.dev/keyboard) which was not much programming, but fun nonetheless!
+I also built a [custom split keyboard](https://derekcorn.dev/blogs/keyboard) which was not much programming, but fun nonetheless!
 
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
