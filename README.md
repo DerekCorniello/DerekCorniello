@@ -51,4 +51,3 @@ I also built a [custom split keyboard](https://derekcorn.dev/blogs/keyboard) whi
 - Designing my own language
 - Writing Evolutionary Algorithms in OCaml
 - Grinding LeetCode
-- Applying for Co-Ops
