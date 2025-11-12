@@ -1,4 +1,4 @@
-[![Resume](https://img.shields.io/badge/Resume-%2300ADD8.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://derekcorniello.github.io/assets/DerekCornielloResume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%2300ADD8.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://derekcorniello.github.io/assets/DerekCornielloResume.pdf](https://derekcorn.dev/resume.pdf))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-corniello) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derekcorniello) 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/derekcorniello)  
@@ -26,7 +26,7 @@ I'm looking forward to contributing to companies where technological innovation 
 
 
 ### 📈 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerekCorniello&langs_count=8&layout=compact&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript&theme=highcontrast&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerekCorniello&langs_count=8&layout=compact&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript,TypeScript&theme=highcontrast&hide_border=true)
 ![Derek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekcorniello&show_icons=true&count_private=true&theme=highcontrast&hide_border=true)
 ![Derek's LeetCode Stats](https://leetcard.jacoblin.cool/DerekCorn?ext=activity&theme=transparent)
 
@@ -35,19 +35,17 @@ I'm looking forward to contributing to companies where technological innovation 
 
 | Project                                      | Status      | Tech Stack                                   | Summary                                                                                          | Takeaways                                                                                           |
 |----------------------------------------------|-------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [quick-mouse](https://www.github.com/DerekCorniello/quick-mouse) | Maintenance | Go, React, Websockets | **MakeUC 2025 Hackathon Winner** - Use your phone as a mouse anywhere! | Learned more about networking and security, as well as end-to-end apps, and solved a real-world problem |
 | [8BitBeats](https://www.github.com/DerekCorniello/8BitBeats) - ([crates.io](https://crates.io/crates/eightbitbeats)) | Maintenance | Rust | A TUI random music generator | Created a solution for a problem I had! Learned more about system architecture, low level, and terminals! |
 | [gitcmd](https://www.github.com/DerekCorniello/gitcmd) - ([crates.io](https://crates.io/crates/gitcmd)) | Maintenance | Rust | A customizable git terminal for any experience level of development! | Advanced lower level language skills, explored Rust, made something useful! |
-| [ReqInspect](https://www.github.com/DerekCorniello/pip-req-valid) - [Link](https://www.reqinspect.com)     | Maintenance | Go, Vue, Vite, AWS, Docker                  | Full-stack app for validating `requirements.txt` files. Inspired by work challenges, deployed on AWS. | Advanced full-stack skills, refined Go skills, improved AWS efficiency, deployment and security.       |
+| [ReqInspect](https://www.github.com/DerekCorniello/pip-req-valid) - Previously on reqinspect.com    | Maintenance | Go, Vue, Vite, AWS, Docker                  | Full-stack app for validating `requirements.txt` files. Inspired by work challenges, deployed on AWS. | Advanced full-stack skills, refined Go skills, improved AWS efficiency, deployment and security.       |
 | [Professional Site](https://derekcorniello.github.io) | Maintenance | JavaScript, HTML, CSS, jQuery              | Static site showcasing background, projects, blogs, and more.                                   | Showcased creativity, deepened web fundamentals.                                                   |
 | [Development Setup](https://github.com/DerekCorniello/dotfiles) | Maintenance | Arch Linux, NeoVim, Tmux, Hyprland, Shell, Lua | Streamlined setup for productivity, from coding to file management.                              | Gained OS-level insights, optimized workflow, documented NeoVim journey [here](https://derekcorniello.github.io/views/blogs/nvim.html). |
-| [AmandaLynnDashboard](https://github.com/DerekCorniello/AmandaLynnDashboard) | Maintenance | Python, Django, Vue, SQLite, Docker         | Custom inventory and financial management app for a small business.                              | Learned full-stack principles, CORS, and deployment with Docker for non-technical users.          |
-| [Billiards Bonanza](https://dcoolman.itch.io/Billiards-Bonanza) | Legacy      | C#, Unity                                   | Retro 8-bit 8-ball billiards game with arcade-style features.                                    | Gained insights into game design, physics, and creative feature implementation.                   |
 
 I also built a [custom split keyboard](https://derekcorn.dev/blogs/keyboard) which was not much programming, but fun nonetheless!
 
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
-- Buckling down Go and Rust, learning OCaml
-- Designing my own language
+- Designing my own language and compiler in Rust, [Mux](https://www.github.com/DerekCorniello/mux-lang)
 - Writing Evolutionary Algorithms in OCaml
 - Grinding LeetCode
