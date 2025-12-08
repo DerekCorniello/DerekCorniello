@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-corniello) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derekcorniello) 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/derekcorniello)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@DerekCornDev)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DerekCornDev)  
 
 
 <h1 style="text-align: center">
@@ -39,6 +39,7 @@ eagerness to learn drive me to keep exploring, one project and concept at a time
 | Project                                      | Status      | Tech Stack                                   | Summary                                                                                          | Takeaways                                                                                           |
 |----------------------------------------------|-------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | [mux](https://www.github.com/DerekCorniello/mux-lang) | Development | Rust, LLVM | A language for the people | TBD! |
+| [better-elo](https://www.github.com/DerekCorniello/better-elo) | Maintenance | Python | An improvement on the classic Elo prediction service using Evoltionary Algorithms and momentum | EC is a powerful way to find more optimal answers! |
 | [quick-mouse](https://www.github.com/DerekCorniello/quick-mouse) | Maintenance | Go, React, Websockets | **MakeUC 2025 Hackathon Winner** - Use your phone as a mouse anywhere! | Learned more about networking and security, as well as end-to-end apps, and solved a real-world problem |
 | [8BitBeats](https://www.github.com/DerekCorniello/8BitBeats) - ([crates.io](https://crates.io/crates/eightbitbeats)) | Maintenance | Rust | A TUI random music generator | Created a solution for a problem I had! Learned more about system architecture, low level, and terminals! |
 | [gitcmd](https://www.github.com/DerekCorniello/gitcmd) - ([crates.io](https://crates.io/crates/gitcmd)) | Maintenance | Rust | A customizable git terminal for any experience level of development! | Advanced lower level language skills, explored Rust, made something useful! |
