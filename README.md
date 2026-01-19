@@ -1,5 +1,5 @@
 [![Resume](https://img.shields.io/badge/Resume-%2300ADD8.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://derekcorniello.github.io/assets/DerekCornielloResume.pdf](https://derekcorn.dev/resume.pdf))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-corniello) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/derek-corniello)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derekcorniello) 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/derekcorniello)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DerekCornDev)  
