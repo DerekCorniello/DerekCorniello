@@ -24,13 +24,12 @@ eagerness to learn drive me to keep exploring, one project and concept at a time
 |--------------------|------------------------------------------------------------------------------------------------------------|
 | **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,unity,arduino)](https://skillicons.dev) |
 | **Backend**        | [![My Skills](https://skillicons.dev/icons?i=py,rust,go,java,cpp)](https://skillicons.dev)               |
-| **Frontend**       | [![My Skills](https://skillicons.dev/icons?i=html,js,ts,vue,vite)](https://skillicons.dev)      |
-| **Database**       | [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql)](https://skillicons.dev)               |
+| **Frontend**       | [![My Skills](https://skillicons.dev/icons?i=html,js,ts,vue,vite,nuxt)](https://skillicons.dev)      |
 
 
 ### 📈 GitHub Stats:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DerekCorniello&theme=transparent&exclude=csharp)
-![Derek's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DerekCorniello&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerekCorniello&langs_count=8&layout=compact&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript&theme=tokyonight&hide_border=true&bg_color=14171c)
+![Derek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerekCorniello&theme=tokyonight&bg_color=14171c&hide_border=true&show_icons=true)
 ![Derek's LeetCode Stats](https://leetcard.jacoblin.cool/DerekCorn?ext=activity&theme=transparent)
 
 
@@ -52,5 +51,4 @@ I also built a [custom split keyboard](https://derekcorn.dev/blogs/keyboard) whi
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
 - Designing my own language and compiler in Rust, [Mux](https://www.github.com/DerekCorniello/mux-lang)
-- Writing Evolutionary Algorithms in OCaml
-- Grinding LeetCode
+- Learning cloud and AWS at Fifth Third Bank!
