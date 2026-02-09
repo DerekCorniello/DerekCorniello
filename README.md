@@ -28,8 +28,8 @@ eagerness to learn drive me to keep exploring, one project and concept at a time
 
 
 ### 📈 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerekCorniello&langs_count=8&layout=compact&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript&theme=tokyonight&hide_border=true&bg_color=14171c)
-![Derek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerekCorniello&theme=tokyonight&bg_color=14171c&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DerekCorniello&hide_border=true&theme=transparent&layout=compact&langs_count=8&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript )
+![Derek's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DerekCorniello&theme=transparent&show_icons=true&hide_border=true)
 ![Derek's LeetCode Stats](https://leetcard.jacoblin.cool/DerekCorn?ext=activity&theme=transparent)
 
 
