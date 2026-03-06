@@ -19,7 +19,7 @@ software product design, project management, and back-end development. My curios
 eagerness to learn drive me to keep exploring, one project and concept at a time! Please
 
 
-## 🥇 My Language and Technology Skillset
+## My Language and Technology Skillset
 |**Type**|**Languages / Skills**|
 |--------------------|------------------------------------------------------------------------------------------------------------|
 | **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,unity,arduino)](https://skillicons.dev) |
