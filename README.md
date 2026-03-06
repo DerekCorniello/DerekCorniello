@@ -11,7 +11,7 @@
   </a>
 </h1>
 
-## 👋 Hello, I'm Derek Corniello!
+## Hello, I'm Derek Corniello!
 I'm a CS/SWE student at the University of Cincinnati. I have interned with Siemens
 Digital Industry Software for the last 2 years, working on backends and API design.
 I will be at Fifth Third Bank over the spring and LinkedIn over the summer. I’m excited about 
@@ -27,13 +27,12 @@ eagerness to learn drive me to keep exploring, one project and concept at a time
 | **Frontend**       | [![My Skills](https://skillicons.dev/icons?i=html,js,ts,vue,vite,nuxt)](https://skillicons.dev)      |
 
 
-### 📈 GitHub Stats:
+### GitHub Stats:
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DerekCorniello&hide_border=true&theme=transparent&layout=compact&langs_count=8&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript )
 ![Derek's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DerekCorniello&theme=transparent&show_icons=true&hide_border=true)
-![Derek's LeetCode Stats](https://leetcard.jacoblin.cool/DerekCorn?ext=activity&theme=transparent)
 
 
-## 🏆 My Top Projects
+## My Top Projects
 
 | Project                                      | Status      | Tech Stack                                   | Summary                                                                                          | Takeaways                                                                                           |
 |----------------------------------------------|-------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
