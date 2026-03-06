@@ -46,7 +46,7 @@ eagerness to learn drive me to keep exploring, one project and concept at a time
 | [Professional Site](https://derekcorniello.github.io) | Maintenance | JavaScript, HTML, CSS, jQuery              | Static site showcasing background, projects, blogs, and more.                                   | Showcased creativity, deepened web fundamentals.                                                   |
 | [Development Setup](https://github.com/DerekCorniello/dotfiles) | Maintenance | Arch Linux, NeoVim, Tmux, Hyprland, Shell, Lua | Streamlined setup for productivity, from coding to file management.                              | Gained OS-level insights, optimized workflow, documented NeoVim journey [here](https://derekcorniello.github.io/views/blogs/nvim.html). |
 
-I also built a [custom split keyboard](https://derekcorn.dev/blogs/keyboard) which was not much programming, but fun nonetheless!
+I also built a [custom split keyboard](https://derekcorn.dev/posts/keyboard) which was not much programming, but fun nonetheless!
 
 ### 🛠️ Currently Learning About and Developing
 - My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
