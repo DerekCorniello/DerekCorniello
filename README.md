@@ -12,19 +12,21 @@
 </h1>
 
 ## Hello, I'm Derek Corniello!
-I'm a CS/SWE student at the University of Cincinnati. I have interned with Siemens
-Digital Industry Software for the last 2 years, working on backends and API design.
-I will be at Fifth Third Bank over the spring and LinkedIn over the summer. I’m excited about 
-software product design, project management, and back-end development. My curiosity and
-eagerness to learn drive me to keep exploring, one project and concept at a time! Please
+I'm a CS/SWE student at the University of Cincinnati, and currently working at Linked[in]
+on internal tooling and dev tools. I interned at Fifth Third Bank doing cloud infrastructure
+and cloud software. Before that, I interned with Siemens Digital Industry Software for the 
+previous 2 years, working on backends, AI tooling, API design, and internal tools.
+
+I’m excited about software product design, project management, and back-end development.
+My curiosity and eagerness to learn drive me to keep exploring, one project and concept at a time!
+Please feel free to reach out!
 
 
 ## My Language and Technology Skillset
 |**Type**|**Languages / Skills**|
 |--------------------|------------------------------------------------------------------------------------------------------------|
-| **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,unity,arduino)](https://skillicons.dev) |
-| **Backend**        | [![My Skills](https://skillicons.dev/icons?i=py,rust,go,java,cpp)](https://skillicons.dev)               |
-| **Frontend**       | [![My Skills](https://skillicons.dev/icons?i=html,js,ts,vue,vite,nuxt)](https://skillicons.dev)      |
+| **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,terraform,jenkins,kafka,cloudflare,unity,arduino)](https://skillicons.dev) |
+| **My Languages**        | [![My Skills](https://skillicons.dev/icons?i=py,rust,go,java,postgresql,nodejs)](https://skillicons.dev)               |
 
 
 ### GitHub Stats:
@@ -36,6 +38,8 @@ eagerness to learn drive me to keep exploring, one project and concept at a time
 
 | Project                                      | Status      | Tech Stack                                   | Summary                                                                                          | Takeaways                                                                                           |
 |----------------------------------------------|-------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [dia](https://www.github.com/DerekCorniello/dia) | Development | Go, Svelte, Wails | The Do-It-ALl app, a stateful session manager for helping with PM and development | TBD |
+| [hunch](https://www.github.com/DerekCorniello/hunch) | Development | Go, SQLite | A graph-based terminal command prediction service (No AI) | TBD |
 | [nvim-keymap-migrator](https://www.github.com/DerekCorniello/nvim-keymap-migrator) | Maintenance | Node.js, npm | Migrates your Neovim keybinds to Intellij and VSCode | Learned more about developer ecosystems, JS, and CLI via npm |
 | [mux](https://www.github.com/DerekCorniello/mux-lang) - ([crates.io](https://crates.io/crates/mux-lang)) | Development | Rust, LLVM | A language for the people | Wow, Rust is fun and language design is hard! |
 | [better-elo](https://www.github.com/DerekCorniello/better-elo) | Maintenance | Python | An improvement on the classic Elo prediction service using Evoltionary Algorithms and momentum | EC is a powerful way to find more optimal answers! |
@@ -49,6 +53,8 @@ eagerness to learn drive me to keep exploring, one project and concept at a time
 I also built a [custom split keyboard](https://derekcorn.dev/posts/keyboard) which was not much programming, but fun nonetheless!
 
 ### 🛠️ Currently Learning About and Developing
-- My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient!
+- My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient
+- Making more tools ([dia](https://www.github.com/DerekCorniello/dia) and [hunch](https://www.github.com/DerekCorniello/dia))
 - Designing my own language and compiler in Rust, [Mux](https://www.github.com/DerekCorniello/mux-lang)
-- Learning cloud and AWS at Fifth Third Bank!
+- Making the developers at LinkedIn more productive
+- Exploring the AI Vibes
