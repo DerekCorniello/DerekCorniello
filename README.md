@@ -29,10 +29,8 @@ Please feel free to reach out!
 | **My Languages**        | [![My Skills](https://skillicons.dev/icons?i=py,rust,go,java,postgresql,nodejs)](https://skillicons.dev)               |
 
 
-### GitHub Stats:
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DerekCorniello&hide_border=true&theme=transparent&layout=compact&langs_count=8&exclude_repo=dotfiles,NeoVim-Setup&size_weight=0.5&count_weight=0.5&hide=MATLAB,HTML,CSS,JavaScript )
-![Derek's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DerekCorniello&theme=transparent&show_icons=true&hide_border=true)
-
+### Dev Card:
+![Dev Card](https://dev-card.corniedj.workers.dev/card.svg)
 
 ## My Top Projects
 
