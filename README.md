@@ -1,18 +1,12 @@
-[![Resume](https://img.shields.io/badge/Resume-%2300ADD8.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://derekcorniello.github.io/assets/DerekCornielloResume.pdf](https://derekcorn.dev/resume.pdf))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/derek-corniello)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derekcorniello) 
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/derekcorniello)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DerekCornDev)  
-
-
-<h1 style="text-align: center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=2000&pause=1000&multiline=true&width=650&height=140&lines=%24+whoami;Derek+Corniello" alt="Title GitHub Readme" />
-  </a>
-</h1>
+[![derekcorn.dev](https://img.shields.io/badge/derekcorn.dev-2AC3DE?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNSAxNSAwIDAxNCAxMCAxNSAxNSAwIDAxLTQgMTAgMTUgMTUgMCAwMS00LTEwIDE1IDE1IDAgMDE0LTEwek0yIDEyaDIwIi8+PC9zdmc+)](https://derekcorn.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIzIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTNaJy8+PC9zdmc+&logoColor=white)](https://www.linkedin.com/in/derek-corniello)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derekcorniello)
+[![Resume](https://img.shields.io/badge/Resume-BB9AF7?style=for-the-badge&logo=readme&logoColor=white)](https://derekcorn.dev/resume.pdf)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DerekCornDev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/derekcorniello)
 
 ## Hello, I'm Derek Corniello!
-I'm a CS/SWE student at the University of Cincinnati, and currently working at Linked[in]
+I'm a Fifth Year CS/SWE student at the University of Cincinnati, and currently working at Linked[in]
 on internal tooling and dev tools. I interned at Fifth Third Bank doing cloud infrastructure
 and cloud software. Before that, I interned with Siemens Digital Industry Software for the 
 previous 2 years, working on backends, AI tooling, API design, and internal tools.
@@ -21,38 +15,9 @@ I’m excited about software product design, project management, and back-end de
 My curiosity and eagerness to learn drive me to keep exploring, one project and concept at a time!
 Please feel free to reach out!
 
-
-## My Language and Technology Skillset
-|**Type**|**Languages / Skills**|
-|--------------------|------------------------------------------------------------------------------------------------------------|
-| **My Development Tools**        | [![My Skills](https://skillicons.dev/icons?i=neovim,arch,git,aws,docker,terraform,jenkins,kafka,cloudflare,unity,arduino)](https://skillicons.dev) |
-| **My Languages**        | [![My Skills](https://skillicons.dev/icons?i=py,rust,go,java,postgresql,nodejs)](https://skillicons.dev)               |
-
-
-### Dev Card:
 ![Dev Card](https://dev-card.corniedj.workers.dev/card.svg)
 
-## My Top Projects
-
-| Project                                      | Status      | Tech Stack                                   | Summary                                                                                          | Takeaways                                                                                           |
-|----------------------------------------------|-------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [dia](https://www.github.com/DerekCorniello/dia) | Development | Go, Svelte, Wails | The Do-It-ALl app, a stateful session manager for helping with PM and development | TBD |
-| [hunch](https://www.github.com/DerekCorniello/hunch) | Development | Go, SQLite | A graph-based terminal command prediction service (No AI) | TBD |
-| [nvim-keymap-migrator](https://www.github.com/DerekCorniello/nvim-keymap-migrator) | Maintenance | Node.js, npm | Migrates your Neovim keybinds to Intellij and VSCode | Learned more about developer ecosystems, JS, and CLI via npm |
-| [mux](https://www.github.com/DerekCorniello/mux-lang) - ([crates.io](https://crates.io/crates/mux-lang)) | Development | Rust, LLVM | A language for the people | Wow, Rust is fun and language design is hard! |
-| [better-elo](https://www.github.com/DerekCorniello/better-elo) | Maintenance | Python | An improvement on the classic Elo prediction service using Evoltionary Algorithms and momentum | EC is a powerful way to find more optimal answers! |
-| [quick-mouse](https://www.github.com/DerekCorniello/quick-mouse) | Maintenance | Go, React, Websockets | **MakeUC 2025 Hackathon Winner** - Use your phone as a mouse anywhere! | Learned more about networking and security, as well as end-to-end apps, and solved a real-world problem |
-| [8BitBeats](https://www.github.com/DerekCorniello/8BitBeats) - ([crates.io](https://crates.io/crates/eightbitbeats)) | Maintenance | Rust | A TUI random music generator | Created a solution for a problem I had! Learned more about system architecture, low level, and terminals! |
-| [gitcmd](https://www.github.com/DerekCorniello/gitcmd) - ([crates.io](https://crates.io/crates/gitcmd)) | Maintenance | Rust | A customizable git terminal for any experience level of development! | Advanced lower level language skills, explored Rust, made something useful! |
-| [ReqInspect](https://www.github.com/DerekCorniello/pip-req-valid) - Previously on reqinspect.com    | Maintenance | Go, Vue, Vite, AWS, Docker                  | Full-stack app for validating `requirements.txt` files. Inspired by work challenges, deployed on AWS. | Advanced full-stack skills, refined Go skills, improved AWS efficiency, deployment and security.       |
-| [Professional Site](https://derekcorniello.github.io) | Maintenance | JavaScript, HTML, CSS, jQuery              | Static site showcasing background, projects, blogs, and more.                                   | Showcased creativity, deepened web fundamentals.                                                   |
-| [Development Setup](https://github.com/DerekCorniello/dotfiles) | Maintenance | Arch Linux, NeoVim, Tmux, Hyprland, Shell, Lua | Streamlined setup for productivity, from coding to file management.                              | Gained OS-level insights, optimized workflow, documented NeoVim journey [here](https://derekcorniello.github.io/views/blogs/nvim.html). |
-
-I also built a [custom split keyboard](https://derekcorn.dev/posts/keyboard) which was not much programming, but fun nonetheless!
-
-### 🛠️ Currently Learning About and Developing
-- My [dotfiles](https://www.github.com/DerekCorniello/dotfiles) to keep my Arch Linux setup tidy and efficient
-- Making more tools ([dia](https://www.github.com/DerekCorniello/dia) and [hunch](https://www.github.com/DerekCorniello/dia))
-- Designing my own language and compiler in Rust, [Mux](https://www.github.com/DerekCorniello/mux-lang)
-- Making the developers at LinkedIn more productive
-- Exploring the AI Vibes
+## Fixed bugs in other FOSS:
+- [Teams for Linux](IsmaelMartinez/teams-for-linux), an issue with GPUs acceleration and displaying data.
+- [Hymission](https://github.com/gfhdhytghd/hymission), an additional feature for window expansion similar to the experience on MacOS.
+- [Hyprexpo](https://github.com/sandwichfarm/hyprexpo), a SEGFAULT causing a system crash during window expansion due to dangling weak pointer dereferencne.
