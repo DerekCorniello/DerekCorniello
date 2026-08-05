@@ -25,4 +25,6 @@ to learn drive me to keep exploring, one project and concept at a time!
 - [Hymission](https://github.com/gfhdhytghd/hymission), an additional feature for window expansion similar to the experience on MacOS.
 - [Hyprexpo](https://github.com/sandwichfarm/hyprexpo), a SEGFAULT causing a system crash during window expansion due to dangling weak pointer dereferencne.
 
+---
+
 ![Dev Card](https://dev-card.corniedj.workers.dev/card.svg)
