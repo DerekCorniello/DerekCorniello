@@ -20,10 +20,9 @@ to learn drive me to keep exploring, one project and concept at a time!
 - [hunch](https://github.com/DerekCorniello/hunch), an improvement on zsh's suggestion layer that learns how you develop based off of history
 - [dia](https://github.com/DerekCorniello/dia), a GUI app meant to be `tmux` for all of your apps!
 
-
-![Dev Card](https://dev-card.corniedj.workers.dev/card.svg)
-
 ## Fixed bugs in other FOSS:
 - [Teams for Linux](IsmaelMartinez/teams-for-linux), an issue with GPUs acceleration and displaying data.
 - [Hymission](https://github.com/gfhdhytghd/hymission), an additional feature for window expansion similar to the experience on MacOS.
 - [Hyprexpo](https://github.com/sandwichfarm/hyprexpo), a SEGFAULT causing a system crash during window expansion due to dangling weak pointer dereferencne.
+
+![Dev Card](https://dev-card.corniedj.workers.dev/card.svg)
