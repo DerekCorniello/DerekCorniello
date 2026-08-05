@@ -16,7 +16,7 @@ developer relations, and back-end development. My passion, curiosity and eagerne
 to learn drive me to keep exploring, one project and concept at a time!
 
 ## Currently working on:
-- [MuxLang](https://github.com/DerekCorniello?tab=overview&org=muxlang), the programming language for everyone!
+- [MuxLang](https://github.com/muxlang), the programming language for everyone!
 - [hunch](https://github.com/DerekCorniello/hunch), an improvement on zsh's suggestion layer that learns how you develop based off of history
 - [dia](https://github.com/DerekCorniello/dia), a GUI app meant to be `tmux` for all of your apps!
 
