@@ -6,14 +6,20 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/derekcorniello)
 
 ## Hello, I'm Derek Corniello!
-I'm a Fifth Year CS/SWE student at the University of Cincinnati, and currently working at Linked[in]
-on internal tooling and dev tools. I interned at Fifth Third Bank doing cloud infrastructure
-and cloud software. Before that, I interned with Siemens Digital Industry Software for the 
-previous 2 years, working on backends, AI tooling, API design, and internal tools.
+I'm a Fifth Year CS/SWE student at the University of Cincinnati, currently interning at Linked[in]
+on internal tooling and productivity engineering. I interned at Fifth Third Bank doing cloud 
+software and infrastructure. Before that, I interned with Siemens Digital Industry Software for the 
+previous 2 years, working on internal tools, backends, AI tooling, API design.
 
-I’m excited about software product design, project management, and back-end development.
-My curiosity and eagerness to learn drive me to keep exploring, one project and concept at a time!
-Please feel free to reach out!
+I’m excited about programming languages, software architecture, developer tooling, 
+developer relations, and back-end development. My passion, curiosity and eagerness 
+to learn drive me to keep exploring, one project and concept at a time!
+
+## Currently working on:
+- [MuxLang](https://github.com/DerekCorniello?tab=overview&org=muxlang), the programming language for everyone!
+- [hunch](https://github.com/DerekCorniello/hunch), an improvement on zsh's suggestion layer that learns how you develop based off of history
+- [dia](https://github.com/DerekCorniello/dia), a GUI app meant to be `tmux` for all of your apps!
+
 
 ![Dev Card](https://dev-card.corniedj.workers.dev/card.svg)
 
